@@ -1,6 +1,7 @@
 # Go Fullstack FR Quiz #
 ## Installation ##
 Clone this repo, and run `npm install` from within the project directory.
+Run `npm install --save-dev run-script-os` to install this package as DevDependencies.
 ## Using the app ##
 Run `npm start` from within the project directory.
 
